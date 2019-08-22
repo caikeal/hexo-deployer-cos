@@ -6,11 +6,11 @@ Tencent Cloud Object Storage (COS) plugin of Hexo
 
 COS is one of the best static blog hosting platforms, you can enable CDN and configure Https.
 
-*hexo-deployer-cos* allows you to publish your Hexo blog directly using commands `hexo d`.
+*hexo-cos-uploader* allows you to publish your Hexo blog directly using commands `hexo d`.
 
 ## Installation
 
-> $ npm install hexo-deployer-cos --save
+> $ npm install hexo-cos-uploader --save
 
 ## Options
 
@@ -23,6 +23,7 @@ deploy:
   secretKey: yourSecretKey
   bucket: yourBucket
   region: yourRegion
+  pathPrefix: yourPathPrefix
 ```
 
 You can get this information from your Tencent Cloud Console.
@@ -39,3 +40,6 @@ You can commit your opinions and suggestions to Issues, or send mail to [sdlzhd@
 ## License
 
 MIT
+
+## Thanks
+thanks to the author [sdlzhd](https://github.com/sdlzhd/hexo-deployer-cos)

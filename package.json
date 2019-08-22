@@ -1,28 +1,30 @@
 {
-  "name": "hexo-deployer-cos",
+  "name": "hexo-cos-uploader",
   "version": "1.0.0",
-  "description": "Tencent Cloud Object Storage (COS) plugin of Hexo",
+  "description": "Tencent Cloud Object Storage (COS) plugin of Hexo with diff different files",
   "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdlzhd/hexo-deployer-cos.git"
+    "url": "git+https://github.com/caikeal/hexo-deployer-cos.git"
   },
   "keywords": [
     "hexo",
     "git",
     "deploy",
     "deployer",
+    "website",
+    "page",
     "cos"
   ],
-  "author": "dongdong",
+  "author": "caikeal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdlzhd/hexo-deployer-cos/issues"
+    "url": "https://github.com/caikeal/hexo-deployer-cos/issues"
   },
-  "homepage": "https://github.com/sdlzhd/hexo-deployer-cos#readme",
+  "homepage": "https://github.com/caikeal/hexo-deployer-cos#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "cos-nodejs-sdk-v5": "^2.5.9",
