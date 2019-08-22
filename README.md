@@ -1,4 +1,4 @@
-# hexo-deployer-cos
+# hexo-cos-uploader
 
 Tencent Cloud Object Storage (COS) plugin of Hexo
 
@@ -35,7 +35,7 @@ Go to [Key Management Console](https://console.cloud.tencent.com/capi) Get your 
 
 ## Opinions & Suggestions
 
-You can commit your opinions and suggestions to Issues, or send mail to [sdlzhd@outlook.com](mailto:sdlzhd@outlook.com).
+You can commit your opinions and suggestions to Issues, or send mail to [caikeal@qq.com](mailto:caikeal@qq.com).
 
 ## License
 
