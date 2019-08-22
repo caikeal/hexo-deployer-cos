@@ -24,6 +24,7 @@ deploy:
   bucket: yourBucket
   region: yourRegion
   pathPrefix: yourPathPrefix
+  deletePathPrefix: false
 ```
 
 You can get this information from your Tencent Cloud Console.
