@@ -1,6 +1,6 @@
 {
   "name": "hexo-cos-uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tencent Cloud Object Storage (COS) plugin of Hexo with diff different files",
   "main": "index",
   "scripts": {
